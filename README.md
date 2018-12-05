@@ -1,2 +1,3 @@
 # Guvi
-Guvi Codes Submissions
+https://guvi.in
+Guvi Codes Submissions Repository in Python
